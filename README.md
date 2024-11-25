@@ -44,7 +44,3 @@
 </p>
 
 ---
-
-<p align="center">
-  Made with ❤️ by Farhan
-</p>
