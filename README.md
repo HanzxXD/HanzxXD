@@ -36,8 +36,6 @@
 
 ### ✨ Let's Connect!
 <p align="left">
-  <a href="https://www.linkedin.com/in/[YourLinkedInUsername]/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/[YourTwitterUsername]" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat" alt="Twitter" /></a>
   <a href="mailto:farhanxd088@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat" alt="Email" /></a>
 </p>
 
